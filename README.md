@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Nice to see you!
+
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=wen81643956)
